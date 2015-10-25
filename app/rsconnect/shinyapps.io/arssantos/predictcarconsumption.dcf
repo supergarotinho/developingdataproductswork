@@ -1,0 +1,8 @@
+name: predictcarconsumption
+account: arssantos
+server: shinyapps.io
+bundleId: 296748
+url: https://arssantos.shinyapps.io/predictcarconsumption
+when: 1445736592.52338
+asMultiple: FALSE
+asStatic: FALSE

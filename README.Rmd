@@ -1,0 +1,29 @@
+---
+title: "Developing Data Products Course Project"
+author: "Anderson Roberto Santos dos Santos"
+date: "24/10/2015"
+output: html_document
+keep_md: yes
+---
+
+# Developing Data Products Work
+
+In this ptoject, we developed a shiny application that predicts the Miles Per Gallon consumption of a car based in some features of it. These set of features where selected based on how easy is for the user to collect them.
+
+## The features are:
+
+* Number of cylinders
+* Gross horsepower
+* Weight (lb)
+* Number of forward gears
+* The transmission type: Automatic or Manual
+
+## How the prediction model was created
+
+* We used the mtcars dataset from the dataset package in R  
+* Use used the linear regression model in R  
+
+## The mtcars dataset
+
+_The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models)._ 
+
